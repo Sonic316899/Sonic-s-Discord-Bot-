@@ -1,7 +1,7 @@
-# `Ace Bot`
+# `Sonic Bot`
 
 ## About
-Ace Bot is a Discord bot designed for server moderation built using [discord.js].
+Sonic Bot is a Discord bot designed for server moderation built using [discord.js].
 
 ## Requirements
 * [Chalk]
